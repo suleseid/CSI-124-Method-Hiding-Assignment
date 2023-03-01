@@ -1,0 +1,12 @@
+﻿<Window x:Class="CSI_124_Method_Hiding_Assignment.Aggregate_Container.Agg_Contain_NoteAssignment"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSI_124_Method_Hiding_Assignment.Aggregate_Container"
+        mc:Ignorable="d"
+        Title="Agg_Contain_NoteAssignment" Height="450" Width="800">
+    <Grid Background="#FFF89595">
+        
+    </Grid>
+</Window>
